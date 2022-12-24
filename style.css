@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    line-height: 25px;
+}
+section{
+    width: 400px;
+    margin: 150px auto;
+    padding: 30px;
+    border: 1px solid black;
+}
+#chuoi{
+    width: 300px;
+    height: 25px;
+    float: right;
+    border: 1px solid black;
+}
+#danhsach{
+    width: 302px;
+    height: 27px;
+    float: right;
+    border: 1px solid black;
+}
+.btn{
+    padding: 3px;
+    margin-right: 40px;
+    float: right;
+}
